@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 .hero {
-    background: url('https://images.unsplash.com/photo-1580587771525-78b9dba3b914') no-repeat center center/cover;
+    background: url('./images/desert.jpg') no-repeat center center/cover;
     height: 400px;
     display: flex;
     align-items: center;
