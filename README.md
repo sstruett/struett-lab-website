@@ -1,4 +1,4 @@
-# Dr. Stefan Strütt
+# About
 
 This is the official webpage for Dr. Stefan Strütt's research, hosted on GitHub Pages.
 
